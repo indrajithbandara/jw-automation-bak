@@ -1,10 +1,10 @@
 /.idea/
 .git
 /test-report/
-/test-script/
-/codeline.sh
-/jmeterstart.sh
-/submitBranch.sh
+test-script/
+codeline.sh
+jmeterstart.sh
+submitBranch.sh
 /jw_testcase/*.pyc
 /jw_utils/*.pyc
 /jw_base/*.pyc
