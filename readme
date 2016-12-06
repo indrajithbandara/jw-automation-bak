@@ -1,0 +1,10 @@
+C:\Python27\python.exe D:/PycharmProjects/cloudwisdom_automation/jw_utils/generatetemplate.py Person id:String,name:String,sex:int,age:int
+#python jdbc mysql
+#python template file
+#python parse string object dic touple list
+#python http post get
+#python unittest
+
+#cloudwisdom interface testing framework
+#author : cuijun
+#date 2016-11-15

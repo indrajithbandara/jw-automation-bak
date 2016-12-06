@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+<<<<<<< HEAD
+  <component name="ProjectRootManager" version="2" default="true" project-jdk-name="Python 2.7.12 (C:\Python27\python.exe)" project-jdk-type="Python SDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+=======
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 2.7.12 (C:\Python27\python.exe)" project-jdk-type="Python SDK" />
+>>>>>>> cd443ac81db159800e4ed59e1a75e8e86fdf358b
+</project>
