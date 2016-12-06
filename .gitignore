@@ -1,7 +1,6 @@
 /.idea/
 .git
 /test-report/
-test-script/
 codeline.sh
 jmeterstart.sh
 submitBranch.sh
